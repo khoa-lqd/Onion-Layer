@@ -5,7 +5,7 @@ Golang Onion Architecture with test case
 
 PORT=
 
-# Database
+//Database
 DB_HOST=localhost
 DB_NAME=
 DB_USERNAME=root
