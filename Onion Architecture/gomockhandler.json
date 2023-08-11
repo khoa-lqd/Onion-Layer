@@ -1,0 +1,13 @@
+{
+	"mocks": {
+		"util/testhelper/mock/repository/todo_repository.go": {
+			"checksum": "8jShAfxV78ZrrmL/J/aIWg==",
+			"source_checksum": "q0kdW/RaYklcE5CLY2WCkQ==",
+			"mode": "SOURCE_MODE",
+			"source_mode_runner": {
+				"source": "app/domain/repository/todo_repository.go",
+				"destination": "util/testhelper/mock/repository/todo_repository.go"
+			}
+		}
+	}
+}
